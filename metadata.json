@@ -1,0 +1,5 @@
+{
+  "name": "GeminiMind - AI Brainstorming",
+  "description": "A visual brainstorming tool that uses Gemini to autonomously expand ideas into a mind map. Features a fresh UI, rich animations, and infinite canvas interaction.",
+  "requestFramePermissions": []
+}
